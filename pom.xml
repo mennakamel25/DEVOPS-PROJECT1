@@ -84,3 +84,8 @@
 </distributionManagement> 
 
 </project>
+
+
+<properties>
+  <sonar.organization>mennakamel25</sonar.organization>
+</properties>
